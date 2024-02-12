@@ -16,6 +16,17 @@ pip install -r requirements.txt
 python learnrepresentations.py -n num_epochs -p pathtotrainedresnet
 python trainclassifier.py -n num_epochs -p pathtotrainedresnet
 ```
+![image](https://github.com/light23-i/Simclr-v-s-Vanilla-CNN/assets/74209656/69f01e05-8538-4804-992f-9e93795a3287)
+![image](https://github.com/light23-i/Simclr-v-s-Vanilla-CNN/assets/74209656/c24e60f7-46a9-4dbe-8f0a-0591942e3c68)
+![image](https://github.com/light23-i/Simclr-v-s-Vanilla-CNN/assets/74209656/6f8337f2-7135-4b62-a11e-ef31915a9fef)
+
+![image](https://github.com/light23-i/Simclr-v-s-Vanilla-CNN/assets/74209656/3bcea814-ef7b-4ef0-87a9-1301822d46f1)
+![image](https://github.com/light23-i/Simclr-v-s-Vanilla-CNN/assets/74209656/61c35761-796c-4a41-a67a-6b513e499dae)
+![image](https://github.com/light23-i/Simclr-v-s-Vanilla-CNN/assets/74209656/add280a8-687a-480e-a09a-c124958606c2)
+
+The above images, are the images formed after applying random transformations on the input image
+
+
 # Vanilla CNN:
 
 To train vanilla cnn, follow these steps:
